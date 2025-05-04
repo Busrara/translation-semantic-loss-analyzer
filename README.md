@@ -39,4 +39,6 @@ It handles this fundamental question in translation technology. By computing **c
 - AI engineers evaluating machine translation quality
 - Anyone interested in going beyond BLEU scores or traditional evaluation metrics
 
+For deeper understanding, you can read my Medium writing on this project: https://medium.com/@busraracoban/understanding-semantic-preservation-in-machine-translation-building-semantic-loss-analyzer-0ddd6cf26eb8
+
 
